@@ -14,5 +14,5 @@ The goal of this project was to port a software made in Visual Basic to Matlab f
 3. An installer
 
 # Exemple
-![](img/exemple.png)
+![](img/example.png)
 
