@@ -13,6 +13,6 @@ The goal of this project was to port a software made in 1996, coded in Visual Ba
 2. An Executable (matlab runtime required)
 3. An installer
 
-# Exemple
+# Example
 ![](img/example.png)
 
